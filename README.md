@@ -15,9 +15,9 @@
 
 ### Contact Me :
 
-<a href="https://www.linkedin.com/in/donia-shaban-349370301/" target="_blank"><img src="https://img.shields.io/badge/-Donia%20Shaban-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/kson3CBbdsLQP5cp/?mibextid=qi2Omg" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/+201155661329" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:doniashaban723@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Donia%20Shaban-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="mailto:ziadebrahime83@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
