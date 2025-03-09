@@ -11,7 +11,7 @@
 </p>
 
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
-- 💬 Ask me about <strong>C++ </strong>
+- 💬 Ask me about <strong>Html</strong>
 
 ### Contact Me :
 
@@ -19,9 +19,9 @@
 <a href="https://wa.me/+201155661329" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="mailto:ziadebrahime83@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ziad%20-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&lo)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
